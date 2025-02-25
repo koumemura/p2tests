@@ -1,0 +1,31 @@
+#Test 4: awfully similar stats
+q: 15
+r: 2049231
+d: 10
+s: 60
+h: 1
+---
+round: 1
+r: 0
+n: 10
+Koki d: 10 s: 10 h: 10
+Kokii d: 10 s: 10 h: 10
+koki d: 10 s: 10 h: 10
+koKi d: 10 s: 10 h: 10
+kOki d: 10 s: 10 h: 10
+KOki d: 10 s: 10 h: 10
+KOKi d: 10 s: 10 h: 10
+KOKI d: 10 s: 10 h: 10
+kOkI d: 10 s: 10 h: 10
+KoKi d: 10 s: 10 h: 10
+---
+round: 10
+r: 0
+n: 2
+Darius d: 10 s: 10 h: 10
+Darius d: 10 s: 9 h: 10
+---
+round: 100
+r: 0
+n: 1
+Irene d: 10 s: 10 h: 10000

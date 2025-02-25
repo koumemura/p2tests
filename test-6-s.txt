@@ -1,0 +1,11 @@
+#Test 6: stats but there's only one zombie
+q: 1
+r: 1
+d: 1
+s: 1
+h: 1
+---
+round: 1
+r: 0
+n: 1
+Leah d: 1 s: 1 h: 1

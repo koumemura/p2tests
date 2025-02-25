@@ -1,0 +1,19 @@
+#Test 3: Stat number is obviously greater than the number of zombies that are spawned
+q: 100
+r: 10
+d: 50
+s: 60
+h: 70
+---
+round: 1
+r: 10
+n: 1
+Tasuku d: 100 s: 1 h: 10
+---
+round: 2
+r: 5
+n: 0
+---
+round: 3
+r: 3
+n: 0

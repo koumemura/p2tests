@@ -1,0 +1,13 @@
+#Test 1: Only the first level is given
+quiver-capacity: 10
+random-seed: 2049231
+d: 50
+s: 60
+h: 1
+---
+round: 1
+random-zombies: 25
+named-zombies: 3
+Koki distance: 150 speed: 150 health: 150
+Darius distance: 10 speed: 1 health: 2
+Emmett distance: 1 speed: 2 health: 3

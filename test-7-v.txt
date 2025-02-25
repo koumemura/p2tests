@@ -1,0 +1,43 @@
+#Test 1: Stairs
+q: 1
+r: 100
+d: 10
+s: 10
+h: 10
+---
+round: 1
+r: 0
+n: 4
+Mari d: 1 s: 1 h: 1
+Lina d: 2 s: 1 h: 1
+Kayenne d: 3 s: 1 h: 1
+Jiu d: 4 s: 1 h: 1
+---
+round: 5
+r: 0
+n: 4
+Marii d: 1 s: 1 h: 1
+Linaa d: 2 s: 1 h: 1
+Kayennee d: 3 s: 1 h: 1
+Jiuu d: 4 s: 1 h: 1
+---
+round: 9
+r: 0
+n: 4
+Mariii d: 1 s: 1 h: 1
+Linaaa d: 2 s: 1 h: 1
+Kayenneee d: 3 s: 1 h: 1
+Jiuuu d: 4 s: 1 h: 1
+---
+round: 13
+r: 0
+n: 4
+Mariiii d: 1 s: 1 h: 1
+Linaaaa d: 2 s: 1 h: 1
+Kayenneeee d: 3 s: 1 h: 1
+Jiuuuu d: 4 s: 1 h: 1
+---
+round: 17
+r: 0
+n: 1
+Yumena d: 1 s: 100 h: 1000

@@ -1,0 +1,22 @@
+#Test 10: Zombies always die in the round they're created
+quiver-capacity: 100
+random-seed: 2049231
+max-rand-distance: 50
+max-rand-speed: 60
+max-rand-health: 1
+---
+round: 1
+r: 3
+n: 0
+
+---
+round: 3
+random-zombies: 3
+n: 0
+---
+round: 4:
+r: 3
+n: 0
+---
+round 6: r: 3
+n: 0

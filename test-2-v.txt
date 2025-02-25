@@ -1,0 +1,14 @@
+#Test 2: some parameters are 0
+quiver-capacity: 0
+random-seed: 0
+maxd: 0
+maxs: 0
+maxh: 0
+---
+round: 1
+r: 0
+n: 0
+---
+round: 2
+r: 0
+n: 0

@@ -1,0 +1,18 @@
+#Test 8: NO ARROWS....
+q: 0
+r: 1
+d: 100
+s: 1000
+h: 10000
+---
+round: 1
+r: 10
+n: 0
+---
+round: 2
+r: 10
+n: 0
+---
+round: 3
+r: 10
+n: 0

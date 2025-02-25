@@ -1,0 +1,30 @@
+#Test 9: Basically unlimited ARROWS
+q: 10000
+r: 2049231
+d: 10
+s: 100
+h: 1000
+---
+round: 1
+r: 1
+n: 0
+---
+round: 2
+r: 2
+n: 0
+---
+round: 3
+r: 3
+n: 0
+---
+round: 4
+r: 4
+n: 0
+---
+round: 5
+r: 5
+n: 0
+---
+round: 6
+r: 6
+n: 0

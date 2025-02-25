@@ -1,0 +1,138 @@
+Round: 1
+Created: Mari (distance: 1, speed: 1, health: 1)
+Created: Lina (distance: 2, speed: 1, health: 1)
+Created: Kayenne (distance: 3, speed: 1, health: 1)
+Created: Jiu (distance: 4, speed: 1, health: 1)
+Destroyed: Mari (distance: 1, speed: 1, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+Moved: Lina (distance: 1, speed: 1, health: 1)
+Moved: Kayenne (distance: 2, speed: 1, health: 1)
+Moved: Jiu (distance: 3, speed: 1, health: 1)
+Destroyed: Lina (distance: 1, speed: 1, health: 0)
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+Moved: Kayenne (distance: 1, speed: 1, health: 1)
+Moved: Jiu (distance: 2, speed: 1, health: 1)
+Destroyed: Kayenne (distance: 1, speed: 1, health: 0)
+At the end of round 3, the median zombie lifetime is 2
+Round: 4
+Moved: Jiu (distance: 1, speed: 1, health: 1)
+Destroyed: Jiu (distance: 1, speed: 1, health: 0)
+At the end of round 4, the median zombie lifetime is 2
+Round: 5
+Created: Marii (distance: 1, speed: 1, health: 1)
+Created: Linaa (distance: 2, speed: 1, health: 1)
+Created: Kayennee (distance: 3, speed: 1, health: 1)
+Created: Jiuu (distance: 4, speed: 1, health: 1)
+Destroyed: Marii (distance: 1, speed: 1, health: 0)
+At the end of round 5, the median zombie lifetime is 2
+Round: 6
+Moved: Linaa (distance: 1, speed: 1, health: 1)
+Moved: Kayennee (distance: 2, speed: 1, health: 1)
+Moved: Jiuu (distance: 3, speed: 1, health: 1)
+Destroyed: Linaa (distance: 1, speed: 1, health: 0)
+At the end of round 6, the median zombie lifetime is 2
+Round: 7
+Moved: Kayennee (distance: 1, speed: 1, health: 1)
+Moved: Jiuu (distance: 2, speed: 1, health: 1)
+Destroyed: Kayennee (distance: 1, speed: 1, health: 0)
+At the end of round 7, the median zombie lifetime is 2
+Round: 8
+Moved: Jiuu (distance: 1, speed: 1, health: 1)
+Destroyed: Jiuu (distance: 1, speed: 1, health: 0)
+At the end of round 8, the median zombie lifetime is 2
+Round: 9
+Created: Mariii (distance: 1, speed: 1, health: 1)
+Created: Linaaa (distance: 2, speed: 1, health: 1)
+Created: Kayenneee (distance: 3, speed: 1, health: 1)
+Created: Jiuuu (distance: 4, speed: 1, health: 1)
+Destroyed: Mariii (distance: 1, speed: 1, health: 0)
+At the end of round 9, the median zombie lifetime is 2
+Round: 10
+Moved: Linaaa (distance: 1, speed: 1, health: 1)
+Moved: Kayenneee (distance: 2, speed: 1, health: 1)
+Moved: Jiuuu (distance: 3, speed: 1, health: 1)
+Destroyed: Linaaa (distance: 1, speed: 1, health: 0)
+At the end of round 10, the median zombie lifetime is 2
+Round: 11
+Moved: Kayenneee (distance: 1, speed: 1, health: 1)
+Moved: Jiuuu (distance: 2, speed: 1, health: 1)
+Destroyed: Kayenneee (distance: 1, speed: 1, health: 0)
+At the end of round 11, the median zombie lifetime is 2
+Round: 12
+Moved: Jiuuu (distance: 1, speed: 1, health: 1)
+Destroyed: Jiuuu (distance: 1, speed: 1, health: 0)
+At the end of round 12, the median zombie lifetime is 2
+Round: 13
+Created: Mariiii (distance: 1, speed: 1, health: 1)
+Created: Linaaaa (distance: 2, speed: 1, health: 1)
+Created: Kayenneeee (distance: 3, speed: 1, health: 1)
+Created: Jiuuuu (distance: 4, speed: 1, health: 1)
+Destroyed: Mariiii (distance: 1, speed: 1, health: 0)
+At the end of round 13, the median zombie lifetime is 2
+Round: 14
+Moved: Linaaaa (distance: 1, speed: 1, health: 1)
+Moved: Kayenneeee (distance: 2, speed: 1, health: 1)
+Moved: Jiuuuu (distance: 3, speed: 1, health: 1)
+Destroyed: Linaaaa (distance: 1, speed: 1, health: 0)
+At the end of round 14, the median zombie lifetime is 2
+Round: 15
+Moved: Kayenneeee (distance: 1, speed: 1, health: 1)
+Moved: Jiuuuu (distance: 2, speed: 1, health: 1)
+Destroyed: Kayenneeee (distance: 1, speed: 1, health: 0)
+At the end of round 15, the median zombie lifetime is 2
+Round: 16
+Moved: Jiuuuu (distance: 1, speed: 1, health: 1)
+Destroyed: Jiuuuu (distance: 1, speed: 1, health: 0)
+At the end of round 16, the median zombie lifetime is 2
+Round: 17
+Created: Yumena (distance: 1, speed: 100, health: 1000)
+Round: 18
+Moved: Yumena (distance: 0, speed: 100, health: 999)
+DEFEAT IN ROUND 18! Yumena ate your brains!
+Zombies still active: 1
+First zombies killed:
+Mari 1
+Lina 2
+Kayenne 3
+Jiu 4
+Marii 5
+Linaa 6
+Kayennee 7
+Jiuu 8
+Mariii 9
+Linaaa 10
+Last zombies killed:
+Jiuuuu 16
+Kayenneeee 15
+Linaaaa 14
+Mariiii 13
+Jiuuu 12
+Kayenneee 11
+Linaaa 10
+Mariii 9
+Jiuu 8
+Kayennee 7
+Most active zombies:
+Jiu 4
+Jiuu 4
+Jiuuu 4
+Jiuuuu 4
+Kayenne 3
+Kayennee 3
+Kayenneee 3
+Kayenneeee 3
+Lina 2
+Linaa 2
+Least active zombies:
+Mari 1
+Marii 1
+Mariii 1
+Mariiii 1
+Lina 2
+Linaa 2
+Linaaa 2
+Linaaaa 2
+Yumena 2
+Kayenne 3

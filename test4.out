@@ -1,0 +1,51 @@
+Round: 1
+Created: Koki (distance: 10, speed: 10, health: 10)
+Created: Kokii (distance: 10, speed: 10, health: 10)
+Created: koki (distance: 10, speed: 10, health: 10)
+Created: koKi (distance: 10, speed: 10, health: 10)
+Created: kOki (distance: 10, speed: 10, health: 10)
+Created: KOki (distance: 10, speed: 10, health: 10)
+Created: KOKi (distance: 10, speed: 10, health: 10)
+Created: KOKI (distance: 10, speed: 10, health: 10)
+Created: kOkI (distance: 10, speed: 10, health: 10)
+Created: KoKi (distance: 10, speed: 10, health: 10)
+Destroyed: KOKI (distance: 10, speed: 10, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+Moved: Koki (distance: 0, speed: 10, health: 10)
+Moved: Kokii (distance: 0, speed: 10, health: 10)
+Moved: koki (distance: 0, speed: 10, health: 10)
+Moved: koKi (distance: 0, speed: 10, health: 10)
+Moved: kOki (distance: 0, speed: 10, health: 10)
+Moved: KOki (distance: 0, speed: 10, health: 10)
+Moved: KOKi (distance: 0, speed: 10, health: 5)
+Moved: kOkI (distance: 0, speed: 10, health: 10)
+Moved: KoKi (distance: 0, speed: 10, health: 10)
+DEFEAT IN ROUND 2! Koki ate your brains!
+Zombies still active: 9
+First zombies killed:
+KOKI 1
+Last zombies killed:
+KOKI 1
+Most active zombies:
+KOKi 2
+KOki 2
+KoKi 2
+Koki 2
+Kokii 2
+kOkI 2
+kOki 2
+koKi 2
+koki 2
+KOKI 1
+Least active zombies:
+KOKI 1
+KOKi 2
+KOki 2
+KoKi 2
+Koki 2
+Kokii 2
+kOkI 2
+kOki 2
+koKi 2
+koki 2

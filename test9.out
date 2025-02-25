@@ -1,0 +1,100 @@
+Round: 1
+Created: paoletti0 (distance: 5, speed: 100, health: 814)
+Destroyed: paoletti0 (distance: 5, speed: 100, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+Created: darden1 (distance: 7, speed: 28, health: 879)
+Created: garcia2 (distance: 5, speed: 97, health: 332)
+Destroyed: garcia2 (distance: 5, speed: 97, health: 0)
+Destroyed: darden1 (distance: 7, speed: 28, health: 0)
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+Created: cris3 (distance: 8, speed: 89, health: 999)
+Created: bing4 (distance: 1, speed: 85, health: 395)
+Created: will5 (distance: 7, speed: 46, health: 533)
+Destroyed: bing4 (distance: 1, speed: 85, health: 0)
+Destroyed: will5 (distance: 7, speed: 46, health: 0)
+Destroyed: cris3 (distance: 8, speed: 89, health: 0)
+At the end of round 3, the median zombie lifetime is 1
+Round: 4
+Created: fee6 (distance: 3, speed: 50, health: 972)
+Created: noah7 (distance: 7, speed: 69, health: 483)
+Created: potatobot8 (distance: 2, speed: 12, health: 409)
+Created: paoletti9 (distance: 7, speed: 40, health: 77)
+Destroyed: paoletti9 (distance: 7, speed: 40, health: 0)
+Destroyed: potatobot8 (distance: 2, speed: 12, health: 0)
+Destroyed: noah7 (distance: 7, speed: 69, health: 0)
+Destroyed: fee6 (distance: 3, speed: 50, health: 0)
+At the end of round 4, the median zombie lifetime is 1
+Round: 5
+Created: darden10 (distance: 7, speed: 69, health: 488)
+Created: garcia11 (distance: 1, speed: 99, health: 216)
+Created: cris12 (distance: 5, speed: 7, health: 668)
+Created: bing13 (distance: 5, speed: 22, health: 275)
+Created: will14 (distance: 3, speed: 92, health: 673)
+Destroyed: garcia11 (distance: 1, speed: 99, health: 0)
+Destroyed: bing13 (distance: 5, speed: 22, health: 0)
+Destroyed: darden10 (distance: 7, speed: 69, health: 0)
+Destroyed: cris12 (distance: 5, speed: 7, health: 0)
+Destroyed: will14 (distance: 3, speed: 92, health: 0)
+At the end of round 5, the median zombie lifetime is 1
+Round: 6
+Created: fee15 (distance: 3, speed: 81, health: 476)
+Created: noah16 (distance: 9, speed: 89, health: 638)
+Created: potatobot17 (distance: 6, speed: 22, health: 769)
+Created: paoletti18 (distance: 3, speed: 33, health: 655)
+Created: darden19 (distance: 7, speed: 69, health: 848)
+Created: garcia20 (distance: 6, speed: 12, health: 350)
+Destroyed: garcia20 (distance: 6, speed: 12, health: 0)
+Destroyed: fee15 (distance: 3, speed: 81, health: 0)
+Destroyed: noah16 (distance: 9, speed: 89, health: 0)
+Destroyed: paoletti18 (distance: 3, speed: 33, health: 0)
+Destroyed: potatobot17 (distance: 6, speed: 22, health: 0)
+Destroyed: darden19 (distance: 7, speed: 69, health: 0)
+At the end of round 6, the median zombie lifetime is 1
+VICTORY IN ROUND 6! darden19 was the last zombie.
+Zombies still active: 0
+First zombies killed:
+paoletti0 1
+garcia2 2
+darden1 3
+bing4 4
+will5 5
+cris3 6
+paoletti9 7
+potatobot8 8
+noah7 9
+fee6 10
+Last zombies killed:
+darden19 21
+potatobot17 20
+paoletti18 19
+noah16 18
+fee15 17
+garcia20 16
+will14 15
+cris12 14
+darden10 13
+bing13 12
+Most active zombies:
+bing13 1
+bing4 1
+cris12 1
+cris3 1
+darden1 1
+darden10 1
+darden19 1
+fee15 1
+fee6 1
+garcia11 1
+Least active zombies:
+bing13 1
+bing4 1
+cris12 1
+cris3 1
+darden1 1
+darden10 1
+darden19 1
+fee15 1
+fee6 1
+garcia11 1

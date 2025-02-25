@@ -1,0 +1,61 @@
+Round: 1
+Created: paoletti0 (distance: 38, speed: 46, health: 33)
+Created: darden1 (distance: 18, speed: 13, health: 26)
+Created: garcia2 (distance: 38, speed: 53, health: 12)
+Created: cris3 (distance: 6, speed: 57, health: 64)
+Created: bing4 (distance: 22, speed: 51, health: 17)
+Created: will5 (distance: 34, speed: 5, health: 31)
+Created: fee6 (distance: 17, speed: 3, health: 59)
+Created: noah7 (distance: 30, speed: 53, health: 1)
+Created: potatobot8 (distance: 30, speed: 60, health: 35)
+Created: paoletti9 (distance: 15, speed: 20, health: 65)
+Created: Tasuku (distance: 100, speed: 1, health: 10)
+Destroyed: noah7 (distance: 30, speed: 53, health: 0)
+Destroyed: garcia2 (distance: 38, speed: 53, health: 0)
+Destroyed: bing4 (distance: 22, speed: 51, health: 0)
+Destroyed: paoletti0 (distance: 38, speed: 46, health: 0)
+Destroyed: potatobot8 (distance: 30, speed: 60, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+Moved: darden1 (distance: 5, speed: 13, health: 26)
+Moved: cris3 (distance: 0, speed: 57, health: 62)
+Moved: will5 (distance: 29, speed: 5, health: 31)
+Moved: fee6 (distance: 14, speed: 3, health: 59)
+Moved: paoletti9 (distance: 0, speed: 20, health: 65)
+Moved: Tasuku (distance: 99, speed: 1, health: 10)
+DEFEAT IN ROUND 2! cris3 ate your brains!
+Zombies still active: 6
+First zombies killed:
+noah7 1
+garcia2 2
+bing4 3
+paoletti0 4
+potatobot8 5
+Last zombies killed:
+potatobot8 5
+paoletti0 4
+bing4 3
+garcia2 2
+noah7 1
+Most active zombies:
+Tasuku 2
+cris3 2
+darden1 2
+fee6 2
+paoletti9 2
+will5 2
+bing4 1
+garcia2 1
+noah7 1
+paoletti0 1
+Least active zombies:
+bing4 1
+garcia2 1
+noah7 1
+paoletti0 1
+potatobot8 1
+Tasuku 2
+cris3 2
+darden1 2
+fee6 2
+paoletti9 2
